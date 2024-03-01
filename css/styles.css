@@ -1,0 +1,29 @@
+body{
+    
+    background-color: rgb(70, 10, 5);
+}
+h1{
+    font-size:40px;
+    margin: 50px;
+    border: 10px double rgb(255, 255, 255);
+    border-radius: 25px;
+    padding:10px 20px;
+    
+}
+
+body{
+    font-style: italic;
+}
+p{
+    font-family: Arial;
+}
+ img{
+    width: 400px;;
+    height: 400px;
+    margin: 25px;
+ }
+ a
+ {
+    color: rgb(255, 255, 255);
+ }
+ 
